@@ -3375,9 +3375,9 @@ q@^1.1.2:
   integrity sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -4050,6 +4050,11 @@ sugarss@^0.2.0:
   dependencies:
     postcss "^5.2.4"
 
+suitcss-components-test@*:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/suitcss-components-test/-/suitcss-components-test-1.0.0.tgz#3f6fbc763505e8c3735921795cbb38921f18cdee"
+  integrity sha512-ZBdJc+9gKIfQQsbfKH+Mj3u1kAWGmpU+BEUPLftEQqOtCPHxvXWddaMQyZfafZ7u+Y8pn8Z2UG0cHRK1+Zl4CA==
+
 suitcss-preprocessor@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/suitcss-preprocessor/-/suitcss-preprocessor-3.0.1.tgz#2d9e7d9273b84cb3aa80c176fa08377127cd6c4d"
@@ -4078,6 +4083,16 @@ suitcss-preprocessor@^3.0.1:
     read-file-stdin "^0.2.1"
     stylelint "^7.2.0"
     stylelint-config-suitcss "^8.0.0"
+
+suitcss-utils-display@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/suitcss-utils-display/-/suitcss-utils-display-1.0.2.tgz#cb6a4e756eab9aefb149f3e4618c76d02bbab47f"
+  integrity sha512-HNpTXq8JeXQwwiZoZzL148WzFarK8VkUUWwg389gy2MOlqDOE1OcFLPx2/lMfhqqFdLtsNnNTJn4VTH2gFcI6Q==
+
+suitcss-utils-size@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/suitcss-utils-size/-/suitcss-utils-size-2.0.1.tgz#37b74154fad4b885b41eaad97e7fafdcc598b852"
+  integrity sha512-nSwISX0SIgA0vP0YzbrXU2CBKUfUv/iKfGuUeZDE4zDn/b/Byrxuhp+hi9epyjVRgs02s2z9LtcuYh7lm8wSRw==
 
 supports-color@^2.0.0:
   version "2.0.0"
